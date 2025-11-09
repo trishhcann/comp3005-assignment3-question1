@@ -20,14 +20,14 @@ Video demo: https://youtu.be/JcbeSoVGM70?si=3D923eZkpdfobq4M
 
 
 ## Compile and run the application
-    -Install required package: pip install psycopg2-binary:<br>
-    -Update connection settings in app.py if needed:<br>
-        user="postgres"<br>
-        password="YOUR_PASSWORD" (postgres)<br>
-        database="studentdb"<br>
-        host="localhost"<br>
-        port=5432<br>
-    -Run the program: python3 app.py<br>
+    -Install required package: pip install psycopg2-binary:
+    -Update connection settings in app.py if needed:
+        user="postgres"
+        password="YOUR_PASSWORD" (postgres)
+        database="studentdb"
+        host="localhost"
+        port=5432
+    -Run the program: python3 app.py
 
 
 
